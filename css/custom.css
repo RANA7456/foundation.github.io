@@ -545,7 +545,7 @@ section {
     }
 }
 
-@media(max-width:4000px) {
+@media(max-width:1500px) {
     #menu-bars {
         display: initial;
     }
